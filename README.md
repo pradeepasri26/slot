@@ -1,4 +1,4 @@
-# Ex03 Time Table
+# Ex-03 Time Table
 ## Date:
 
 ## AIM
@@ -134,7 +134,6 @@ Execute the program using runserver command.
 </body>
 </html>
 ```
-
 ## OUTPUT
 ![Screenshot 2024-04-04 182158](https://github.com/pradeepasri26/slot/assets/131433142/3e20315f-f805-4679-b436-d56887ab8252)
 
